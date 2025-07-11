@@ -18,8 +18,8 @@ A web application that uses Gemini AI to generate concise and accurate summaries
 
 ## 📦 Installation
 
-git clone https://github.com/Ritam-23/AI-Summarizer.git
-cd AI-Summarizer
-Go to chrome://extensions/
-Click Load Unpacked
-And chose the AI-Summarizer Folder
+- git clone https://github.com/Ritam-23/AI-Summarizer.git
+- cd AI-Summarizer
+- Go to chrome://extensions/
+- Click Load Unpacked
+- And chose the AI-Summarizer Folder
